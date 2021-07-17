@@ -1,6 +1,6 @@
 # Robot_arm_ROS
 This repo is for Smart-Methods AI Task1
-1: create a ROS workspace folder by follow These instructions in terminal.
+1: create a ROS workspace folder by the terminal.
 2:  install arduino robot arm packages to control robot arm with Moveit and Rviz.
 3: Launch the simulation to use gazebo Rivz:
   - default positions
